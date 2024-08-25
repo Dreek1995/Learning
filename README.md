@@ -1,2 +1,2 @@
 # Learning
-Learning Folder
+This is my first GIT repository.
